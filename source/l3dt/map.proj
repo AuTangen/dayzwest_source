@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<varlist name="ProjectData">
+	<int name="FileVersion">1</int>
+	<varlist name="MapInfo">
+		<varlist name="Terrain">
+			<int name="nx">1024</int>
+			<int name="ny">1024</int>
+			<float name="MinAlt">1489.72</float>
+			<float name="MaxAlt">1895.47</float>
+			<float name="HorizScale">10</float>
+		</varlist>
+		<bool name="WrapFlag">false</bool>
+	</varlist>
+	<varlist name="Maps">
+		<varlist name="HF">
+			<string name="Filename">map_HF.hfz</string>
+			<string name="MapType">HF</string>
+		</varlist>
+		<varlist name="AM">
+			<string name="Filename">map_AM.amf.gz</string>
+			<string name="MapType">AM</string>
+		</varlist>
+		<varlist name="TN">
+			<string name="Filename">map_TN.png</string>
+			<string name="MapType">TN</string>
+		</varlist>
+	</varlist>
+	<varlist name="Climates">
+		<varlist name="Desert">
+			<string name="Filename">C:\Users\Austen\L3DT\Resources\Std 16.05.3.1\Climates\desert26\Desert26.cli.xml</string>
+		</varlist>
+	</varlist>
+</varlist>
