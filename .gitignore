@@ -1,0 +1,10 @@
+# ignore all
+*
+
+# except gitignore, source, libraries, layers, config
+
+!.gitignore
+!source
+!TemplateLibs
+!terrain.Layers
+!config.cpp
