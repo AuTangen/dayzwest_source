@@ -1,1 +1,7 @@
-data
+/*
+/*/
+
+!/source/
+!/terrain.Layers/
+!TemplateLibs/
+!config.cpp
