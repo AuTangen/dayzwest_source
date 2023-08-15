@@ -3,5 +3,5 @@
 
 !/source/
 !/terrain.Layers/
-!TemplateLibs/
+!/TemplateLibs/
 !config.cpp
