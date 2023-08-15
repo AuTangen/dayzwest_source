@@ -6,5 +6,5 @@
 !.gitignore
 !source
 !TemplateLibs
-!terrain.Layers
+!/terrain.Layers
 !config.cpp
