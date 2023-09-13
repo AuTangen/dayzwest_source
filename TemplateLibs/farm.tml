@@ -2,8 +2,8 @@
 <Library name="farm" shape="rectangle" default_fill="-12582848" default_outline="-1" tex="0">
     <Template>
         <Name>farm_hopper2</Name>
-        <File>DZ\structures_bliss\industrial\farms\farm_hopper2.p3d</File>
-        <Date>08/13/23 09:30:07</Date>
+        <File>dz\structures_bliss\industrial\farms\farm_hopper2.p3d</File>
+        <Date>08/30/23 10:04:15</Date>
         <Archive></Archive>
         <Fill>-12582848</Fill>
         <Outline>-1</Outline>
@@ -21,22 +21,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>2.096611</BBRadius>
+        <BBHScale>0.700194</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-1.454186" Y="-1.122687" Z="-1.927497" />
+        <BoundingMax X="1.481884" Y="10.190583" Z="2.265724" />
+        <BoundingCenter X="0.013849" Y="4.533948" Z="0.169114" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>farm_manurepile</Name>
         <File>dz\structures_bliss\industrial\farms\farm_manurepile.p3d</File>
-        <Date>02/19/23 10:16:38</Date>
+        <Date>08/30/23 10:04:15</Date>
         <Archive></Archive>
         <Fill>-12582848</Fill>
         <Outline>-1</Outline>
@@ -68,8 +68,8 @@
     </Template>
     <Template>
         <Name>farm_silagestorage</Name>
-        <File>DZ\structures_bliss\industrial\farms\farm_silagestorage.p3d</File>
-        <Date>08/13/23 09:30:07</Date>
+        <File>dz\structures_bliss\industrial\farms\farm_silagestorage.p3d</File>
+        <Date>08/30/23 10:04:15</Date>
         <Archive></Archive>
         <Fill>-12582848</Fill>
         <Outline>-1</Outline>
@@ -87,16 +87,16 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>10.418698</BBRadius>
+        <BBHScale>0.488352</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-4.934437" Y="-0.995081" Z="-11.517794" />
+        <BoundingMax X="5.241555" Y="2.425936" Z="9.319603" />
+        <BoundingCenter X="0.153559" Y="0.715428" Z="-1.099095" />
         <Placement></Placement>
     </Template>
 </Library>
